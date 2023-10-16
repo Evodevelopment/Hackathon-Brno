@@ -1,4 +1,9 @@
-# Hackathon-Brno
+# Hackathon-Brno a Dny AI BRNO
+### Sobota
+- nejaci typci z Chomutova kteri chteji delat prezentacky a rejzovat prachy
+- KdZ to seovnam ze jsem si delal ten Ai kurz, vladtne uz 3 :)
+Tak oni jsou strasne pozadu :-)
+
 ### Uvodni Prezentace
 
 - poznamky mam v notepadu
